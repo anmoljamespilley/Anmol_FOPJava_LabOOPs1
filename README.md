@@ -22,7 +22,7 @@ Additionally, a stored procedure is included to calculate average ratings for su
 **Rating Table:**<br>
 &bull; Captures ratings given by customers for their orders.<br>
 <br>
-##Inserted Data:<br>
+**##Inserted Data:**<br>
 &bull; Suppliers, Customers, Categories, Products:<br>
 Populated with sample data to simulate a diverse set of entities.<br>
 &bull; Supplier Pricings:<br>
@@ -32,8 +32,7 @@ Includes order information with associated customers and products.<br>
 &bull; Ratings:<br>
 Represents ratings given by customers for specific orders.<br>
 <br>
-##Queries:<br>
-<br>
+**##Queries:**<br>
 **Query 4:**<br>
 &bull; Identifies the gender distribution of customers who made orders exceeding $3000.<br>
 <br>

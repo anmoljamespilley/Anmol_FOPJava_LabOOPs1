@@ -162,7 +162,7 @@ INSERT INTO RATING VALUES(16,116,0);
 
 -- Solving the QUERY
 
--- Query 1
+-- Query 4
 SELECT
     s2.CUS_GENDER AS Gender,
     COUNT(s2.CUST_ID) AS No_of_customers

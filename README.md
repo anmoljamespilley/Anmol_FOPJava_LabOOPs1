@@ -1,4 +1,4 @@
-'# Summary:'<br>
+**#Summary:**<br>
 This e-commerce database is designed to manage suppliers, customers, products, orders, and ratings.<br>
 The provided queries offer insights into customer behavior, supplier performance, and product categories. The sample data allows for testing and analysis.<br>
 Additionally, a stored procedure is included to calculate average ratings for suppliers.<br>

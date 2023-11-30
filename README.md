@@ -3,30 +3,25 @@ This e-commerce database is designed to manage suppliers, customers, products, o
 The provided queries offer insights into customer behavior, supplier performance, and product categories. The sample data allows for testing and analysis.<br>
 Additionally, a stored procedure is included to calculate average ratings for suppliers.<br>
 <br>
-#Database Schema:<br>
-##ECOM Database:<br>
+**#Database Schema:**<br>
+**##ECOM Database:**<br>
 &bull; A container for the entire e-commerce database.<br>
-**Supplier Table:**<br>
 <br>
+**Supplier Table:**<br>
 &bull; Stores information about suppliers, including ID, name, city, and phone number.<br>
 **Customer Table:**<br>
-<br>
 &bull; Contains details about customers, such as ID, name, phone number, city, and gender.<br>
 **Category Table:**<br>
-<br>
 &bull; Holds information about product categories, including ID and name.<br>
 **Product Table:**<br>
-<br>
 &bull; Stores product details like ID, name, description, and the category it belongs to.<br>
 **Supplier Pricing Table:**<br>
-<br>
 &bull; Manages pricing information from suppliers for various products.<br>
 **Order Table:**<br>
-<br>
 &bull; Records order details, such as order ID, amount, date, customer ID, and pricing ID.<br>
 **Rating Table:**<br>
-<br>
 &bull; Captures ratings given by customers for their orders.<br>
+<br>
 ##Inserted Data:<br>
 &bull; Suppliers, Customers, Categories, Products:<br>
 Populated with sample data to simulate a diverse set of entities.<br>
